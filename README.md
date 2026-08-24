@@ -166,7 +166,7 @@ Full history in [CHANGELOG.md](CHANGELOG.md).
 | Dedicated OOB management port | Done, May 2026 |
 | IDS threat-ruleset rollout to blocking interfaces | In progress, gated on a clean detect-only week |
 | Native VLAN 999 + dedicated mgmt VLAN | Blocked by switch hardware, see [LIMITATIONS.md](docs/LIMITATIONS.md) |
-| CCNA exam on the VLAN 40 practice lab | Scheduled, August 2026 |
+| CCNA exam on the VLAN 40 practice lab | Scheduled, October 2026 |
 | Centralized syslog | Evaluating |
 
 ---
